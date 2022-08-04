@@ -12,12 +12,11 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="gato-gif"  src="https://raw.githubusercontent.com/83738162/182964355-e66a663a-d542-4dd9-8fea-7ea845c6b10a.gif">
-  
 </div>
   
-  ![catrb](https://user-images.githubusercontent.com/83738162/182964355-e66a663a-d542-4dd9-8fea-7ea845c6b10a.gif)
-  
+  ![catrb](https://user-images.githubusercontent.com/83738162/182965501-d45e1297-419d-4703-9d60-2b1b028439cc.gif)
+
+
 ##
   
 <a href="https://discord.gg/dgZSX7Y3Pq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -25,4 +24,4 @@
 <a href="https://www.linkedin.com/in/junio-sousa-695330220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
-  ![Snake animation](https://github.com/rafaballerini/juniosm/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/juniosm/juniosm/blob/output/github-contribution-grid-snake.svg)
